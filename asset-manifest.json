@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/static/js/main.a4041596.chunk.js",
-    "main.js.map": "/static/js/main.a4041596.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.419f7efd.js",
-    "runtime-main.js.map": "/static/js/runtime-main.419f7efd.js.map",
-    "static/js/2.542d2b0c.chunk.js": "/static/js/2.542d2b0c.chunk.js",
-    "static/js/2.542d2b0c.chunk.js.map": "/static/js/2.542d2b0c.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.743ffb9339808d60a7080599aadeae90.js": "/precache-manifest.743ffb9339808d60a7080599aadeae90.js",
-    "service-worker.js": "/service-worker.js",
-    "static/js/2.542d2b0c.chunk.js.LICENSE.txt": "/static/js/2.542d2b0c.chunk.js.LICENSE.txt"
+    "main.js": "/doodler_edge/static/js/main.a4041596.chunk.js",
+    "main.js.map": "/doodler_edge/static/js/main.a4041596.chunk.js.map",
+    "runtime-main.js": "/doodler_edge/static/js/runtime-main.2ca6ec27.js",
+    "runtime-main.js.map": "/doodler_edge/static/js/runtime-main.2ca6ec27.js.map",
+    "static/js/2.02c8f46d.chunk.js": "/doodler_edge/static/js/2.02c8f46d.chunk.js",
+    "static/js/2.02c8f46d.chunk.js.map": "/doodler_edge/static/js/2.02c8f46d.chunk.js.map",
+    "index.html": "/doodler_edge/index.html",
+    "precache-manifest.e08e2b0b0ba1e74a93eeb83ec77fd709.js": "/doodler_edge/precache-manifest.e08e2b0b0ba1e74a93eeb83ec77fd709.js",
+    "service-worker.js": "/doodler_edge/service-worker.js",
+    "static/js/2.02c8f46d.chunk.js.LICENSE.txt": "/doodler_edge/static/js/2.02c8f46d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.419f7efd.js",
-    "static/js/2.542d2b0c.chunk.js",
+    "static/js/runtime-main.2ca6ec27.js",
+    "static/js/2.02c8f46d.chunk.js",
     "static/js/main.a4041596.chunk.js"
   ]
 }
